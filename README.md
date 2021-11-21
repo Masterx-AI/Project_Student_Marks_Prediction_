@@ -1,4 +1,5 @@
 # AI/ML Project: Student Marks Prediction 📚
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/142776524-363e18eb-cee9-48ce-9880-de372488161e.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
