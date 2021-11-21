@@ -29,12 +29,12 @@ The project is simple yet challenging as it is has very limited features & sampl
 ### Some Visuals of the Project:
 **1. Target Variable Distribution**
 
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/142728573-42c6ca90-a4ce-43b6-9064-35cffa98dc58.png" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/142776603-1f060bd7-7929-499a-99d6-415bedd211b4.png" /></p>
 
 **2. Categorical Feature-set Distribution**
-
-![image](https://user-images.githubusercontent.com/54996245/142728589-96c49ce7-8863-4a50-baed-b44053678565.png)
-![image](https://user-images.githubusercontent.com/54996245/142728592-5c15fd42-296d-4079-9d60-feb7001f2cf5.png)
+  
+![image](https://user-images.githubusercontent.com/54996245/142776610-1466c50e-76be-4130-bd6f-f7ded8d6c036.png)
+![image](https://user-images.githubusercontent.com/54996245/142776614-917c4679-b2ba-4bcd-88e5-c0924879450b.png)
 
 **2. Numerical Feature-set Distribution**
 
