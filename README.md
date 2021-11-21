@@ -36,38 +36,38 @@ The project is simple yet challenging as it is has very limited features & sampl
 ![image](https://user-images.githubusercontent.com/54996245/142776610-1466c50e-76be-4130-bd6f-f7ded8d6c036.png)
 ![image](https://user-images.githubusercontent.com/54996245/142776614-917c4679-b2ba-4bcd-88e5-c0924879450b.png)
 
-**2. Numerical Feature-set Distribution**
+**3. Numerical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/142728603-1e3c1c51-924b-48b1-9f2d-69667e453d41.png)
-![image](https://user-images.githubusercontent.com/54996245/142728605-8c11add5-a64b-4d2b-bdc3-bbaa79f848d0.png)
+![image](https://user-images.githubusercontent.com/54996245/142776650-9319526e-3a19-446d-a4be-4d1fdc090f19.png)
+![image](https://user-images.githubusercontent.com/54996245/142776644-1ff37a2e-d4dd-4fd3-9e9b-62e43ba07084.png)
 
 
-**3. Relationship between the Feature-set**
+**4. Relationship between the Feature-set**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728609-bb82d861-e295-4862-ae5b-0db33eb47c50.png)
 
-**4. Data Retention after preforming preprocessing step**
+**5. Data Retention after preforming preprocessing step**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728619-19bf98bb-9e15-40c6-a8cb-b1a6093324e0.png)
 
-**5. Correlation Plot**
+**6. Correlation Plot**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728629-2b4c04f5-cf2e-4beb-9649-645297ab809d.png)
 
-**6. Multiple Linear Regression Prediction & Residual Normality Check**
+**7. Multiple Linear Regression Prediction & Residual Normality Check**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728650-8dbc0ac6-73d2-4c58-913e-fc6d0b930fcc.png)
 
-**7. Polynomial Degrees Comparison**
+**8. Polynomial Degrees Comparison**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728667-d7dd89e5-378f-43f8-8c2e-f2eacad68934.png)
 
-**8. Predictions**
+**9. Predictions**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728697-ccf4d1f4-997b-42ba-af37-c3a6fdcc8d88.png)
 
 
-**9. ML Algorithm's Scores Comparison (R2& RMSE) for the Ad Budge Dataset**
+**10. ML Algorithm's Scores Comparison (R2& RMSE) for the Ad Budge Dataset**
 
 ![image](https://user-images.githubusercontent.com/54996245/142728707-219e1a93-b5c2-4ff0-973f-488df92488dd.png)
 ![image](https://user-images.githubusercontent.com/54996245/142728711-60a1ea62-6427-472d-bc40-58e48b2847c4.png)
