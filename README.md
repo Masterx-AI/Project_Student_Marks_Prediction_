@@ -14,3 +14,13 @@ The project is simple yet challenging as it is has very limited features & sampl
 - Understand the Dataset & perform the necessary cleanup.
 - Build Regression models & fine-tune the hyperparamters to predict the student marks.
 - Also evaluate the models & compare thier respective scores like R2, RMSE, etc.
+
+### <center> Stractegic Plan of Action:
+  
+**We aim to solve the current problem statement by creating plan of action, Here are some of the necessary steps:**
+1. Data Exploration
+2. Exploratory Data Analysis (EDA)
+3. Data Pre-processing
+4. Feature Selection/Extraction
+5. Predictive Modelling
+6. Project Outcomes & Conclusion
