@@ -44,33 +44,33 @@ The project is simple yet challenging as it is has very limited features & sampl
 
 **4. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/142728609-bb82d861-e295-4862-ae5b-0db33eb47c50.png)
+![image](https://user-images.githubusercontent.com/54996245/142776682-e8e4a052-209a-4caa-8ae2-096ada20a1a7.png)
 
 **5. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/142728619-19bf98bb-9e15-40c6-a8cb-b1a6093324e0.png)
+![image](https://user-images.githubusercontent.com/54996245/142776685-dcfdb6d5-f956-4a8d-becd-3ccb67025644.png)
 
 **6. Correlation Plot**
 
-![image](https://user-images.githubusercontent.com/54996245/142728629-2b4c04f5-cf2e-4beb-9649-645297ab809d.png)
+![image](https://user-images.githubusercontent.com/54996245/142776693-f2c3b455-8aaf-4b92-a2ce-e80e05523e03.png)
 
 **7. Multiple Linear Regression Prediction & Residual Normality Check**
 
-![image](https://user-images.githubusercontent.com/54996245/142728650-8dbc0ac6-73d2-4c58-913e-fc6d0b930fcc.png)
+![image](https://user-images.githubusercontent.com/54996245/142776700-3bdd0ffd-c5fb-485f-bd2b-6c681cdeeebb.png)
 
 **8. Polynomial Degrees Comparison**
 
-![image](https://user-images.githubusercontent.com/54996245/142728667-d7dd89e5-378f-43f8-8c2e-f2eacad68934.png)
+![image](https://user-images.githubusercontent.com/54996245/142776711-01dc9a9a-9372-4394-b3a1-ecb243ced249.png)
 
 **9. Predictions**
 
-![image](https://user-images.githubusercontent.com/54996245/142728697-ccf4d1f4-997b-42ba-af37-c3a6fdcc8d88.png)
+![image](https://user-images.githubusercontent.com/54996245/142776716-722f804a-6b40-4ebe-99a7-0b8cef3989ae.png)
 
 
 **10. ML Algorithm's Scores Comparison (R2& RMSE) for the Ad Budge Dataset**
 
-![image](https://user-images.githubusercontent.com/54996245/142728707-219e1a93-b5c2-4ff0-973f-488df92488dd.png)
-![image](https://user-images.githubusercontent.com/54996245/142728711-60a1ea62-6427-472d-bc40-58e48b2847c4.png)
+![image](https://user-images.githubusercontent.com/54996245/142776722-bdf15220-9c4b-4a11-a23e-e98f83f1cc81.png)
+![image](https://user-images.githubusercontent.com/54996245/142776728-79c85193-41cf-4c3c-a60b-d94eeb728c05.png)
 
 
 ### Here are some of the key outcomes of the project:
