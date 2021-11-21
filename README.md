@@ -1,1 +1,2 @@
-# Project_Student_Marks_Prediction
+# AI/ML Project: Student Marks Prediction 📚
+
